@@ -1,0 +1,27 @@
+﻿* {
+    padding: 0;
+    margin: 0;
+}
+
+
+#dUsr, #dPass, #dSm {
+    margin: 0 auto;
+    width: 30%;
+    padding-top: 15px;
+}
+
+label, input, .btn{
+    display: block;
+    margin: 0 auto;
+}
+
+#links a {
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+
+#ra {
+    text-align: center;
+}
+
